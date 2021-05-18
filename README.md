@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gitpish.gitpish)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gitpish.gitpish.issue.1)
 <!--
 **gitpish/gitpish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
